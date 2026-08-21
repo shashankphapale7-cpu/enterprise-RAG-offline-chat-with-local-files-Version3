@@ -1,0 +1,16 @@
+chromadb
+sentence-transformers
+pypdf
+python-docx
+openpyxl
+xlrd
+rich
+streamlit
+Pillow
+pytesseract
+opencv-python-headless
+python-pptx
+beautifulsoup4
+lxml
+chardet
+bcrypt
