@@ -132,7 +132,7 @@ Clone the repository and set up a virtual environment:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/local-RAG.git
+git clone https://github.com/shashankphapale7-cpu/enterprise-RAG-offline-chat-with-local-files-Version3.git
 cd local-RAG
 
 # Create virtual environment
